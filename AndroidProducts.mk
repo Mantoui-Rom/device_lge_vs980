@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_vs980.mk
+    $(LOCAL_DIR)/mantoui_vs980.mk
 
